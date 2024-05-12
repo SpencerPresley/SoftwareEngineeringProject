@@ -1,0 +1,658 @@
+author,commitHash,additions,deletions,filePath,filesChanged
+cbarbes1,3cf576ff4beb5690795a4b03429986f523259c9a,42,23,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,1
+SpencerPresley,7c8ae1813c65360a8efa1218ce961d58fa103899,1,1,su-research/src/components/HomePage.js,2
+SpencerPresley,7c8ae1813c65360a8efa1218ce961d58fa103899,1,1,su-research/src/components/TopicPage.js,2
+cbarbes,5b8b1895227148af90c55945f37f9f36174fa8c9,11,2,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,1
+SpencerPresley,8eb10338fc5046f03ad78a4a3ed47e57d082686a,6,0,su-research/README.md,8
+SpencerPresley,8eb10338fc5046f03ad78a4a3ed47e57d082686a,74,0,su-research/src/App.css,8
+SpencerPresley,8eb10338fc5046f03ad78a4a3ed47e57d082686a,21,0,su-research/src/App.js,8
+SpencerPresley,8eb10338fc5046f03ad78a4a3ed47e57d082686a,8,0,su-research/src/App.test.js,8
+SpencerPresley,8eb10338fc5046f03ad78a4a3ed47e57d082686a,18,0,su-research/src/index.css,8
+SpencerPresley,8eb10338fc5046f03ad78a4a3ed47e57d082686a,17,0,su-research/src/index.js,8
+SpencerPresley,8eb10338fc5046f03ad78a4a3ed47e57d082686a,13,0,su-research/src/reportWebVitals.js,8
+SpencerPresley,8eb10338fc5046f03ad78a4a3ed47e57d082686a,5,0,su-research/src/setupTests.js,8
+SpencerPresley,b562b1f35402795c8a3e50228a9ff83a6401914c,17,6,FrontEnd/templates/html/Version1/ArticleAZ.html,3
+SpencerPresley,b562b1f35402795c8a3e50228a9ff83a6401914c,7,5,FrontEnd/templates/html/Version1/FacultyAZ.html,3
+SpencerPresley,b562b1f35402795c8a3e50228a9ff83a6401914c,19,5,FrontEnd/templates/html/Version1/TopicAZ.html,3
+SpencerPresley,740c3f32e47408efb38256b752892331dc63a196,0,74,su-research/src/App.css,8
+SpencerPresley,740c3f32e47408efb38256b752892331dc63a196,0,21,su-research/src/App.js,8
+SpencerPresley,740c3f32e47408efb38256b752892331dc63a196,0,8,su-research/src/App.test.js,8
+SpencerPresley,740c3f32e47408efb38256b752892331dc63a196,0,19,su-research/src/index.css,8
+SpencerPresley,740c3f32e47408efb38256b752892331dc63a196,0,17,su-research/src/index.js,8
+SpencerPresley,740c3f32e47408efb38256b752892331dc63a196,0,1,su-research/src/logo.svg,8
+SpencerPresley,740c3f32e47408efb38256b752892331dc63a196,0,13,su-research/src/reportWebVitals.js,8
+SpencerPresley,740c3f32e47408efb38256b752892331dc63a196,0,5,su-research/src/setupTests.js,8
+Spencer Presley,62ee562478b8c10dd8ce45140ac6470c6081c371,25,16,PythonCode/Utilities/AbstractCategoryMap.py,3
+Spencer Presley,62ee562478b8c10dd8ce45140ac6470c6081c371,-,-,PythonCode/Utilities/category_dict.pkl,3
+Spencer Presley,62ee562478b8c10dd8ce45140ac6470c6081c371,1,1,PythonCode/Utilities/wos_classification.py,3
+Spencer Presley,028835a8bdda228dbb57c1d7af9a635915ccee47,28,0,PythonCode/Utilities/AbstractCategoryMap.py,5
+Spencer Presley,028835a8bdda228dbb57c1d7af9a635915ccee47,20,6,PythonCode/Utilities/AttributeExtractionStrategies.py,5
+Spencer Presley,028835a8bdda228dbb57c1d7af9a635915ccee47,-,-,PythonCode/Utilities/category_dict.pkl,5
+Spencer Presley,028835a8bdda228dbb57c1d7af9a635915ccee47,0,75,PythonCode/Utilities/utilities.py,5
+Spencer Presley,028835a8bdda228dbb57c1d7af9a635915ccee47,2,0,PythonCode/Utilities/wos_classification.py,5
+Spencer Presley,4e448f724ab729bf5456b5fe25a42a549aafa62f,162,0,PythonCode/Utilities/AttributeExtractionStrategies.py,3
+Spencer Presley,4e448f724ab729bf5456b5fe25a42a549aafa62f,-,-,PythonCode/Utilities/category_dict.pkl,3
+Spencer Presley,4e448f724ab729bf5456b5fe25a42a549aafa62f,1,275,PythonCode/Utilities/utilities.py,3
+Spencer Presley,e9a65d0d2f5d88f85abf475bab4509c3bd20f901,-,-,PythonCode/Utilities/category_dict.pkl,2
+Spencer Presley,e9a65d0d2f5d88f85abf475bab4509c3bd20f901,61,11,PythonCode/Utilities/utilities.py,2
+Spencer Presley,227207f9b7848143125a45f9c915524de182c107,-,-,PythonCode/Utilities/category_dict.pkl,2
+Spencer Presley,227207f9b7848143125a45f9c915524de182c107,49,20,PythonCode/Utilities/utilities.py,2
+Spencer Presley,2d90c2c2e597269bde2c3c693abb9a99dea6a905,-,-,PythonCode/Utilities/category_dict.pkl,6
+Spencer Presley,2d90c2c2e597269bde2c3c693abb9a99dea6a905,0,6,PythonCode/Utilities/category_processor.py,6
+Spencer Presley,2d90c2c2e597269bde2c3c693abb9a99dea6a905,4,2,PythonCode/Utilities/faculty_set_postprocessor.py,6
+Spencer Presley,2d90c2c2e597269bde2c3c693abb9a99dea6a905,8,4,PythonCode/Utilities/file_handler.py,6
+Spencer Presley,2d90c2c2e597269bde2c3c693abb9a99dea6a905,71,11,PythonCode/Utilities/utilities.py,6
+Spencer Presley,2d90c2c2e597269bde2c3c693abb9a99dea6a905,5,3,PythonCode/Utilities/wos_classification.py,6
+Spencer Presley,79dfe5be7d06d3bcde80f622ac7b528d3cbecc9d,-,-,PythonCode/Utilities/category_dict.pkl,2
+Spencer Presley,79dfe5be7d06d3bcde80f622ac7b528d3cbecc9d,17,17,PythonCode/Utilities/wos_classification.py,2
+cbarbes,779794f29a6c99926ba95b066cdeb1cb6750ba62,43,24,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,2
+cbarbes,779794f29a6c99926ba95b066cdeb1cb6750ba62,37,0,Cole_AI_TextAnalysis/TextAnalysis/helper.py,2
+SpencerPresley,08433a4778b569ccf3573469b7082da03085742c,-,-,su-research/public/suVid.mp4,1
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,84,1,.gitignore,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,21,0,Cole_AI_TextAnalysis/TextAnalysis/TaxonomyFrameworkPlan.md,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,50,0,FrontEnd/server_2.py,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,-,-,FrontEnd/static/image/Aragorn.jpg,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,-,-,FrontEnd/static/image/Gandalf.jpg,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,-,-,FrontEnd/static/image/Gimli.jpg,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,-,-,FrontEnd/static/image/Legolas.jpg,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,22,0,FrontEnd/static/java/articleBody.js,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,26,0,FrontEnd/static/java/facultyBody.js,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,19,0,FrontEnd/static/java/header.js,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,50,0,FrontEnd/static/java/indexBody.js,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,16,0,FrontEnd/static/java/search.js,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,20,0,FrontEnd/templates/html/ErrorPages/404.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,20,0,FrontEnd/templates/html/ErrorPages/500.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,55,0,FrontEnd/templates/html/Version1/Article.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,47,0,FrontEnd/templates/html/Version1/ArticleAZ.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,62,0,FrontEnd/templates/html/Version1/Faculty.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,48,0,FrontEnd/templates/html/Version1/FacultyAZ.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,37,0,FrontEnd/templates/html/Version1/Topic.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,46,0,FrontEnd/templates/html/Version1/TopicAZ.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,40,0,FrontEnd/templates/html/Version1/index.html,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,66,0,Notes.md,23
+SpencerPresley,5b4906b93e2fd90a18ed2bfcec3b006e70274340,0,0,empty,23
+SpencerPresley,929cbc1c4292b2218e9ad5c882a459683ec134d0,20,20,su-research/src/components/HomePage.js,2
+SpencerPresley,929cbc1c4292b2218e9ad5c882a459683ec134d0,16,16,su-research/src/components/TopicPage.js,2
+SpencerPresley,e4d4777ffa1ac1fc79c18d6b56b6e6494c499af7,2,0,.gitignore,1
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,66,0,Cole_AI_TextAnalysis/Data_Management/Notes_SpringBreak_SpencerMeetingWithJensen.md,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,29,0,NewFrontEnd/index.html,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,0,0,__init__.py,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,70,0,su-research/README.md,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,6,0,su-research/postcss.config.js,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,-,-,su-research/public/favicon.ico,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,48,0,su-research/public/index.html,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,3,0,su-research/public/robots.txt,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,-,-,su-research/public/suVid.mp4,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,26,9,su-research/src/components/HomePage.js,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,45,25,su-research/src/components/TopicPage.js,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,26,7,su-research/src/components/VideoBackground.js,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,21,7,su-research/src/components/VideoBackground2.js,14
+SpencerPresley,9e39ecdd1ab0c787a9dc401e943ba99674759c65,38,0,su-research/tailwind.config.js,14
+cbarbes1,ba952450ea1c8f01e7c40899f47123c471796660,8,3,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,1
+cbarbes1,74d7a4425db15541b607c16f7d91634088d6fd6e,1,7,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,1
+Jude,a4d9ab59096fd99fbec0369c3544b97e94ab8e38,0,0,FrontEnd/static/pageBody/pageLoad,1
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,7,4,FrontEnd/static/java/ArticleInfoSearch.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,4,1,FrontEnd/static/java/ArticleListSearch.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,5,2,FrontEnd/static/java/FacultyInfoSearch.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,5,2,FrontEnd/static/java/FacultyListSearch.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,4,1,FrontEnd/static/java/TopicInfo.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,4,1,FrontEnd/static/java/TopicSearch.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,4,0,FrontEnd/static/java/articleBody.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,3,0,FrontEnd/static/java/facultyBody.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,3,0,FrontEnd/static/java/header.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,3,0,FrontEnd/static/java/indexBody.js,11
+Jude,3ad3405f0f84856ee485b64fc4fdcc1131e3385b,3,0,FrontEnd/static/java/search.js,11
+Jude,43e429db505399ee80e344db8db001e1d6ee86d4,6,1,FrontEnd/server.py,7
+Jude,43e429db505399ee80e344db8db001e1d6ee86d4,4,0,FrontEnd/server_2.py,7
+Jude,43e429db505399ee80e344db8db001e1d6ee86d4,6,1,FrontEnd/server_3.py,7
+Jude,43e429db505399ee80e344db8db001e1d6ee86d4,3,0,FrontEnd/static/pageBody/header.js,7
+Jude,43e429db505399ee80e344db8db001e1d6ee86d4,3,0,FrontEnd/static/pageBody/indexBody.js,7
+Jude,43e429db505399ee80e344db8db001e1d6ee86d4,3,0,FrontEnd/static/pageBody/loadPage.js,7
+Jude,43e429db505399ee80e344db8db001e1d6ee86d4,4,0,FrontEnd/templates/html/Version3/template.html,7
+Jude,091e9b9f630e6fba83e677da182f13d5050dc2af,40,0,FrontEnd/server_3.py,5
+Jude,091e9b9f630e6fba83e677da182f13d5050dc2af,19,0,FrontEnd/static/pageBody/header.js,5
+Jude,091e9b9f630e6fba83e677da182f13d5050dc2af,50,0,FrontEnd/static/pageBody/indexBody.js,5
+Jude,091e9b9f630e6fba83e677da182f13d5050dc2af,10,0,FrontEnd/static/pageBody/loadPage.js,5
+Jude,091e9b9f630e6fba83e677da182f13d5050dc2af,20,0,FrontEnd/templates/html/Version3/template.html,5
+cbarbes1,b586b23d077ef61abf93a1ffbf8be38edfd2f338,26,38,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,2
+cbarbes1,b586b23d077ef61abf93a1ffbf8be38edfd2f338,0,0,Cole_AI_TextAnalysis/TextAnalysis/requirements.txt,2
+cbarbes,545fe8aa2f2f94e9238554cc6bb7330e56a6ced2,4,1,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,1
+Cole Barbes,87a1be9bbdce3f01aa33ee1c3a13c6546152fe1d,0,0,Cole_AI_TextAnalysis/TextAnalysis/Analysis_testing.ipynb,8
+Cole Barbes,87a1be9bbdce3f01aa33ee1c3a13c6546152fe1d,0,62,Cole_AI_TextAnalysis/TextAnalysis/BERT.md,8
+Cole Barbes,87a1be9bbdce3f01aa33ee1c3a13c6546152fe1d,0,5,Cole_AI_TextAnalysis/TextAnalysis/GPT2.py,8
+Cole Barbes,87a1be9bbdce3f01aa33ee1c3a13c6546152fe1d,0,29,Cole_AI_TextAnalysis/TextAnalysis/QandABot.py,8
+Cole Barbes,87a1be9bbdce3f01aa33ee1c3a13c6546152fe1d,21,0,Cole_AI_TextAnalysis/TextAnalysis/TaxonomyFrameworkPlan.md,8
+Cole Barbes,87a1be9bbdce3f01aa33ee1c3a13c6546152fe1d,0,6,Cole_AI_TextAnalysis/TextAnalysis/arxiv-testing.py,8
+Cole Barbes,87a1be9bbdce3f01aa33ee1c3a13c6546152fe1d,0,0,Cole_AI_TextAnalysis/TextAnalysis/design.md,8
+Cole Barbes,87a1be9bbdce3f01aa33ee1c3a13c6546152fe1d,89,11,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,8
+Cole Barbes,50eb51fff72c04174e0cde6e3c2da23f9f983203,0,57,README.md,1
+Cole Barbes,ec50d04968051a1bb53c6138dd7c13bfe971b7d6,0,16,Cole_AI_TextAnalysis/Data_Management/Testing/mongotest.py,5
+Cole Barbes,ec50d04968051a1bb53c6138dd7c13bfe971b7d6,0,16,Cole_AI_TextAnalysis/Data_Management/app.py,5
+Cole Barbes,ec50d04968051a1bb53c6138dd7c13bfe971b7d6,0,30,Cole_AI_TextAnalysis/Data_Management/data_class.py,5
+Cole Barbes,ec50d04968051a1bb53c6138dd7c13bfe971b7d6,17,3,Cole_AI_TextAnalysis/Data_Management/file_convert.py,5
+Cole Barbes,ec50d04968051a1bb53c6138dd7c13bfe971b7d6,8,1,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,5
+SpencerPresley,6befb33114eb533cc907931ae55bc7f498050cbc,23,15,su-research/src/components/HomePage.js,4
+SpencerPresley,6befb33114eb533cc907931ae55bc7f498050cbc,86,84,su-research/src/components/TopicPage.js,4
+SpencerPresley,6befb33114eb533cc907931ae55bc7f498050cbc,20,0,su-research/src/components/VideoBackground.js,4
+SpencerPresley,6befb33114eb533cc907931ae55bc7f498050cbc,20,0,su-research/src/components/VideoBackground2.js,4
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,74,0,su-research/src/App.css,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,21,0,su-research/src/App.js,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,8,0,su-research/src/App.test.js,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,55,0,su-research/src/components/HomePage.js,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,145,0,su-research/src/components/TopicPage.js,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,19,0,su-research/src/index.css,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,17,0,su-research/src/index.js,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,1,0,su-research/src/logo.svg,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,13,0,su-research/src/reportWebVitals.js,10
+SpencerPresley,48ceb13ae16bfd10457c38649d693af9c66fe2a2,5,0,su-research/src/setupTests.js,10
+SpencerPresley,0e8aded497ad6e401aeda63c4d960ab9e86b02bc,0,872,PythonCode/Utilities/professor_dump_to_pd.ipynb,5
+SpencerPresley,0e8aded497ad6e401aeda63c4d960ab9e86b02bc,60,0,PythonCode/Utilities/testing/formatted_response.txt,5
+SpencerPresley,0e8aded497ad6e401aeda63c4d960ab9e86b02bc,330,0,PythonCode/Utilities/testing/professor_dump_to_pd.ipynb,5
+SpencerPresley,0e8aded497ad6e401aeda63c4d960ab9e86b02bc,222,0,PythonCode/Utilities/testing/wos_parser_testing.ipynb,5
+SpencerPresley,0e8aded497ad6e401aeda63c4d960ab9e86b02bc,-,-,PythonCode/Utilities/testing/wos_records.xls,5
+Underlord711,568c6f7dd2263eeaa0dd0afea699c21f34e9afb6,8,3,FrontEnd/templates/html/Version1/ArticleAZ.html,3
+Underlord711,568c6f7dd2263eeaa0dd0afea699c21f34e9afb6,8,2,FrontEnd/templates/html/Version1/FacultyAZ.html,3
+Underlord711,568c6f7dd2263eeaa0dd0afea699c21f34e9afb6,9,5,FrontEnd/templates/html/Version1/TopicAZ.html,3
+Underlord711,496190eb26d8dbe0aa45cc702b45899a8fc8c419,29,22,FrontEnd/templates/html/Version1/ArticleAZ.html,4
+Underlord711,496190eb26d8dbe0aa45cc702b45899a8fc8c419,20,15,FrontEnd/templates/html/Version1/FacultyAZ.html,4
+Underlord711,496190eb26d8dbe0aa45cc702b45899a8fc8c419,19,14,FrontEnd/templates/html/Version1/TopicAZ.html,4
+Underlord711,496190eb26d8dbe0aa45cc702b45899a8fc8c419,1,1,FrontEnd/templates/html/Version1/index.html,4
+Jude,11ed542d825d2a2e7097738d210244291d505f6d,14,1,FrontEnd/server_2.py,3
+Jude,11ed542d825d2a2e7097738d210244291d505f6d,20,0,FrontEnd/templates/html/ErrorPages/404.html,3
+Jude,11ed542d825d2a2e7097738d210244291d505f6d,20,0,FrontEnd/templates/html/ErrorPages/500.html,3
+Jude,cc1746ffa1fa93bc6f674c3f331f637429c6bc1b,7,0,FrontEnd/static/java/ArticleInfoSearch.js,2
+Jude,cc1746ffa1fa93bc6f674c3f331f637429c6bc1b,17,10,FrontEnd/static/java/FacultyInfoSearch.js,2
+Jude,d7b98e21f97a58716367ff44fe7bf7da520ac2df,32,19,FrontEnd/static/java/TopicInfo.js,4
+Jude,d7b98e21f97a58716367ff44fe7bf7da520ac2df,1,1,FrontEnd/static/java/TopicSearch.js,4
+Jude,d7b98e21f97a58716367ff44fe7bf7da520ac2df,18,14,FrontEnd/static/java/facultyBody.js,4
+Jude,d7b98e21f97a58716367ff44fe7bf7da520ac2df,6,9,FrontEnd/static/java/search.js,4
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,10,5,FrontEnd/server.py,9
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,37,0,FrontEnd/server_2.py,9
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,1,1,FrontEnd/static/java/ArticleListSearch.js,9
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,1,1,FrontEnd/static/java/FacultyListSearch.js,9
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,1,1,FrontEnd/static/java/TopicSearch.js,9
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,22,0,FrontEnd/static/java/articleBody.js,9
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,14,19,FrontEnd/static/java/facultyBody.js,9
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,4,4,FrontEnd/static/java/header.js,9
+Jude,fc995c61229e8586735604c82d363b7783f01e2d,0,31,FrontEnd/templates/html/Faculty_2.html,9
+Jude,930c08da1c61e4e0888c58e73fdc91ee5a24bc22,27,0,FrontEnd/static/java/facultyBody.js,5
+Jude,930c08da1c61e4e0888c58e73fdc91ee5a24bc22,2,6,FrontEnd/templates/html/FacultyAZ_2.html,5
+Jude,930c08da1c61e4e0888c58e73fdc91ee5a24bc22,19,34,FrontEnd/templates/html/Faculty_2.html,5
+Jude,930c08da1c61e4e0888c58e73fdc91ee5a24bc22,2,6,FrontEnd/templates/html/TopicAZ_2.html,5
+Jude,930c08da1c61e4e0888c58e73fdc91ee5a24bc22,2,6,FrontEnd/templates/html/Topic_2.html,5
+Jude,d5b6728b99c5a071609f49b5f717158ee27ac707,20,0,FrontEnd/templates/html/FacultyAZ_2.html,2
+Jude,d5b6728b99c5a071609f49b5f717158ee27ac707,46,0,FrontEnd/templates/html/Faculty_2.html,2
+cbarbes,444e76dc2a51e002e6959a57c34c6e58055fb0ea,5,0,Cole_AI_TextAnalysis/TextAnalysis/GPT2.py,3
+cbarbes,444e76dc2a51e002e6959a57c34c6e58055fb0ea,6,5,Cole_AI_TextAnalysis/TextAnalysis/QandABot.py,3
+cbarbes,444e76dc2a51e002e6959a57c34c6e58055fb0ea,20,11,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,3
+cbarbes1,294679816f2524acc1342ec4e60895054d0a025c,0,3,Cole_AI_TextAnalysis/Data_Management/file_convert.py,2
+cbarbes1,294679816f2524acc1342ec4e60895054d0a025c,17,0,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,2
+Jude,8d0e08c495767d3a49a6e3cd14b53f5a5fe70d94,19,0,FrontEnd/static/java/search.js,3
+Jude,8d0e08c495767d3a49a6e3cd14b53f5a5fe70d94,6,12,FrontEnd/templates/html/TopicAZ_2.html,3
+Jude,8d0e08c495767d3a49a6e3cd14b53f5a5fe70d94,21,0,FrontEnd/templates/html/Topic_2.html,3
+Jude,6be151b0162be2b9dbed97dd582a4e2cbdd9bae4,1,2,FrontEnd/static/java/header.js,2
+Jude,6be151b0162be2b9dbed97dd582a4e2cbdd9bae4,26,0,FrontEnd/templates/html/TopicAZ_2.html,2
+Jude,90cce1bc5266cdbfdaaf4b8f4ec1690463a6554a,5,0,FrontEnd/server.py,6
+Jude,90cce1bc5266cdbfdaaf4b8f4ec1690463a6554a,-,-,FrontEnd/static/image/Aragorn.jpg,6
+Jude,90cce1bc5266cdbfdaaf4b8f4ec1690463a6554a,-,-,FrontEnd/static/image/Gandalf.jpg,6
+Jude,90cce1bc5266cdbfdaaf4b8f4ec1690463a6554a,-,-,FrontEnd/static/image/Gimli.jpg,6
+Jude,90cce1bc5266cdbfdaaf4b8f4ec1690463a6554a,-,-,FrontEnd/static/image/Legolas.jpg,6
+Jude,90cce1bc5266cdbfdaaf4b8f4ec1690463a6554a,29,5,FrontEnd/static/java/indexBody.js,6
+Jude,48fa08c14ab215ebcbb307f555a6b1b34e78f06e,20,0,FrontEnd/static/java/header.js,4
+Jude,48fa08c14ab215ebcbb307f555a6b1b34e78f06e,26,0,FrontEnd/static/java/indexBody.js,4
+Jude,48fa08c14ab215ebcbb307f555a6b1b34e78f06e,0,1,FrontEnd/templates/html/Topic.html,4
+Jude,48fa08c14ab215ebcbb307f555a6b1b34e78f06e,16,0,FrontEnd/templates/html/index_2.html,4
+Underlord711,807fe92acfc8e77602950b9f5e405524fd81bbaa,1,1,FrontEnd/static/java/ArticleListSearch.js,2
+Underlord711,807fe92acfc8e77602950b9f5e405524fd81bbaa,1,1,FrontEnd/static/java/FacultyListSearch.js,2
+Underlord711,46e1a3bc0da147d0c8e9850a496e259daa3a6f28,1,1,FrontEnd/static/java/TopicSearch.js,1
+cbarbes1,e811a1777eb12832644f753e01fd68c2d9053dbd,28,0,Cole_AI_TextAnalysis/TextAnalysis/QandABot.py,2
+cbarbes1,e811a1777eb12832644f753e01fd68c2d9053dbd,0,28,Cole_AI_TextAnalysis/TextAnalysis/gptAnalysis.py,2
+SpencerPresley,bf72d47532c52192fa7773336e882cc9e212153c,17,5,PythonCode/DeducedData/FacultyNameFormatter.py,3
+SpencerPresley,bf72d47532c52192fa7773336e882cc9e212153c,34,8,PythonCode/DeducedData/FuzzyMatcher.py,3
+SpencerPresley,bf72d47532c52192fa7773336e882cc9e212153c,9,2,PythonCode/DeducedData/Official_Faculty_Titles.py,3
+Jude Maggitti,2ee308c588d7c3f3716d7720ae192bc786e2632e,0,1,.gptapikey,5
+Jude Maggitti,2ee308c588d7c3f3716d7720ae192bc786e2632e,0,0,WebDev/empty.txt,5
+Jude Maggitti,2ee308c588d7c3f3716d7720ae192bc786e2632e,0,14,app.py,5
+Jude Maggitti,2ee308c588d7c3f3716d7720ae192bc786e2632e,0,9,traces.txt,5
+Jude Maggitti,2ee308c588d7c3f3716d7720ae192bc786e2632e,0,41,tracing_test.py,5
+Jude Maggitti,c9ec15c3db55106ebd483d98ec98c6aa8614a445,0,0,Deprecated/empty.txt,1
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,56,0,FrontEnd/ArticleInfo.html,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,49,0,FrontEnd/FacultyInfo.html,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,25,0,FrontEnd/server.js,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,27,0,FrontEnd/server.py,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,35,0,FrontEnd/static/java/ArticleInfoSearch.js,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,26,0,FrontEnd/static/java/ArticleListSearch.js,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,28,0,FrontEnd/static/java/FacultyInfoSearch.js,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,26,0,FrontEnd/static/java/FacultyListSearch.js,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,41,0,FrontEnd/static/java/TopicInfo.js,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,31,0,FrontEnd/static/java/TopicSearch.js,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,65,0,FrontEnd/style/Title.css,12
+Jude Maggitti,d28ad6196d556f3f3be33ea822a4742c704770bb,38,0,FrontEnd/templates/html/Topic.html,12
+Cole Barbes,c524fbc9c7efa8a648adcf1d3ce51332e7f0b3c8,1,0,.gptapikey,4
+Cole Barbes,c524fbc9c7efa8a648adcf1d3ce51332e7f0b3c8,0,0,TextAnalysis/Analysis_testing.ipynb,4
+Cole Barbes,c524fbc9c7efa8a648adcf1d3ce51332e7f0b3c8,28,0,TextAnalysis/gptAnalysis.py,4
+Cole Barbes,c524fbc9c7efa8a648adcf1d3ce51332e7f0b3c8,8,0,TextAnalysis/test.py,4
+Cole Barbes,66c0b53376430e6b18094bb13f7573dfb3e0e3b4,0,17,DBTesting/templates/users.html,2
+Cole Barbes,66c0b53376430e6b18094bb13f7573dfb3e0e3b4,0,0,TextAnalysis/gptAnalysis.py,2
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,10,0,GeneralUtilities/PickleDict/PickleDictLoader.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,10,0,PythonCode/DeducedData/CSV_to_PandasDF.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,22,0,PythonCode/DeducedData/FacultyNameFormatter.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,60,0,PythonCode/DeducedData/FuzzyMatcher.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,30,0,PythonCode/DeducedData/Official_Faculty_Titles.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,18,0,PythonCode/DeducedData/PseudoUniqueFaculty.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,17,0,PythonCode/DeducedData/SimilarityStrategies/pair_similarity_strategy.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,7,0,PythonCode/DeducedData/SimilarityStrategy.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,0,0,PythonCode/DeducedData/__init__.py,10
+SpencerPresley,7178a070b69b3d0932532716cf264859724585e5,425,0,PythonCode/blank.txt,10
+SpencerPresley,da0514c108ea2a766c709bb18236c8f430a0e5d0,-,-,PythonCode/Utilities/category_dict.pkl,5
+SpencerPresley,da0514c108ea2a766c709bb18236c8f430a0e5d0,13,5,PythonCode/Utilities/category_processor.py,5
+SpencerPresley,da0514c108ea2a766c709bb18236c8f430a0e5d0,681,1066,PythonCode/Utilities/professor_dump_to_pd.ipynb,5
+SpencerPresley,da0514c108ea2a766c709bb18236c8f430a0e5d0,1,1,PythonCode/Utilities/utilities.py,5
+SpencerPresley,da0514c108ea2a766c709bb18236c8f430a0e5d0,2,1,PythonCode/Utilities/wos_classification.py,5
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,0,0,Arxiv-Training/.gitignore,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,0,74,Arxiv-Training/Data_Management/file_convert.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,0,13,Arxiv-Training/Data_Management/webscript.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,0,22,Arxiv-Training/Testing/mongotest.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,0,5,Arxiv-Training/Testing/process.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,0,5,Arxiv-Training/Testing/test.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,0,6,Arxiv-Training/TextAnalysis/arxiv-testing.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,0,496,Arxiv-Training/TextAnalysis/test_bert.ipynb,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,16,0,DBTesting/app.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,17,0,DBTesting/templates/users.html,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,94,0,Data_Management/file_convert.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,15,0,Data_Management/webscript.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,16,0,Testing/mongotest.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,5,0,Testing/process.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,5,0,Testing/test.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,6,0,TextAnalysis/arxiv-testing.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,87694,0,TextAnalysis/test_bert.ipynb,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,14,0,app.py,19
+cbarbes,1a5f6f8350c6b5698c20ceb7b217aabb64f43845,9,0,traces.txt,19
+SpencerPresley,7a5a832cafeac6e5898ab05c83853802e7ee3e7d,11,0,PythonCode/Utilities/professor_dump_to_pandas.py,2
+SpencerPresley,7a5a832cafeac6e5898ab05c83853802e7ee3e7d,1257,0,PythonCode/Utilities/professor_dump_to_pd.ipynb,2
+SpencerPresley,971b9dc90ae9f7fd95c6ff4c812bed50464e77fb,-,-,PythonCode/Utilities/category_dict.pkl,5
+SpencerPresley,971b9dc90ae9f7fd95c6ff4c812bed50464e77fb,0,0,PythonCode/Utilities/change,5
+SpencerPresley,971b9dc90ae9f7fd95c6ff4c812bed50464e77fb,13,1,PythonCode/Utilities/faculty_set_postprocessor.py,5
+SpencerPresley,971b9dc90ae9f7fd95c6ff4c812bed50464e77fb,5,1,PythonCode/Utilities/file_handler.py,5
+SpencerPresley,971b9dc90ae9f7fd95c6ff4c812bed50464e77fb,2,1,PythonCode/Utilities/wos_classification.py,5
+SpencerPresley,04327517aa4665edcf8d00d146fb970031e14c75,41,0,PythonCode/Utilities/SetOperationsBrainStorming.md,1
+SpencerPresley,de111b8b9cd17063f2443cb596a4f1d0ef6d0dfb,6,0,PythonCode/Utilities/faculty_department_manager.py,2
+SpencerPresley,de111b8b9cd17063f2443cb596a4f1d0ef6d0dfb,86,10,PythonCode/Utilities/faculty_set_postprocessor.py,2
+SpencerPresley,51c783eb4d75e5102dd3b324ebf77e4b81909406,48,0,GeneralUtilities/tracing/tracer_documentation.md,1
+SpencerPresley,b714a894aa96d0cda518ce558c95874638902ccf,0,0,GeneralUtilities/tracing/trace_logs/trace_logs.txt,4
+SpencerPresley,b714a894aa96d0cda518ce558c95874638902ccf,48,0,GeneralUtilities/tracing/trace_logs/tracer_documentation.md,4
+SpencerPresley,b714a894aa96d0cda518ce558c95874638902ccf,59,0,GeneralUtilities/tracing/tracer.py,4
+SpencerPresley,b714a894aa96d0cda518ce558c95874638902ccf,41,0,tracing_test.py,4
+Spencer Presley,2cdeabbd56a6188d9321e2c0febbe405c8cd8f52,77,0,TODO.md,1
+SpencerPresley,f9ffd464394db942cdeda2e0194907a43f52bff2,29,23,GeneralUtilities/file_ops/file_ops.py,3
+SpencerPresley,f9ffd464394db942cdeda2e0194907a43f52bff2,11,6,GeneralUtilities/logging/logger.py,3
+SpencerPresley,f9ffd464394db942cdeda2e0194907a43f52bff2,7,5,GeneralUtilities/performance_monitoring/pm_tools.py,3
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,142,121,PythonCode/Deprecated/DEPRECATED_faculty_processor.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,13,13,PythonCode/Deprecated/DEPRECATED_splitter.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,75,50,PythonCode/Deprecated/DEPRECATED_wos_classification.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,10,9,PythonCode/Deprecated/deprecated_functions.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,34,30,PythonCode/NeuralNet/testing/DEPRECATED_model_test.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,35,16,PythonCode/NeuralNet/testing/DEPRECATED_model_test2.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,185,148,PythonCode/NeuralNet/testing/DEPRECATED_model_tools.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,3,3,PythonCode/NeuralNet/testing/dataset_testing.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,48,33,PythonCode/TFModel/DataVisualization/data_visualization.ipynb,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,21,14,PythonCode/TFModel/DataVisualization/datavis.ipynb,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,65,32,PythonCode/TFModel/DataVisualization/datavis2.ipynb,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,8,7,PythonCode/Utilities/My_Data_Classes.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,53,39,PythonCode/Utilities/UnitTesting.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,63,54,PythonCode/Utilities/Unused/WoS_Classification/WoS_Classification.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,2,2,PythonCode/Utilities/Unused/arxivAPItest.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,4,4,PythonCode/Utilities/Unused/test.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,38,17,PythonCode/Utilities/category_processor.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,11,11,PythonCode/Utilities/checkNumFiles_RemoveNewLine.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,18,10,PythonCode/Utilities/faculty_department_manager.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,57,39,PythonCode/Utilities/faculty_set_postprocessor.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,8,4,PythonCode/Utilities/file_handler.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,19,16,PythonCode/Utilities/main.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,8,4,PythonCode/Utilities/test_C1_extraction.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,97,85,PythonCode/Utilities/utilities.py,25
+SpencerPresley,c708e7d50e08088326e8e0edd60d738e79ea2009,29,22,PythonCode/Utilities/wos_classification.py,25
+SpencerPresley,1bf2d62135b6bdefc2ffae3292a94b89a4819f62,3,2,PythonCode/Utilities/category_processor.py,4
+SpencerPresley,1bf2d62135b6bdefc2ffae3292a94b89a4819f62,7,3,PythonCode/Utilities/faculty_department_manager.py,4
+SpencerPresley,1bf2d62135b6bdefc2ffae3292a94b89a4819f62,38,0,PythonCode/Utilities/test_C1_extraction.py,4
+SpencerPresley,1bf2d62135b6bdefc2ffae3292a94b89a4819f62,32,14,PythonCode/Utilities/utilities.py,4
+Jude,c794338db44583395ef703e6c29391f51fc3098f,4,23,FrontEnd/server.py,3
+Jude,c794338db44583395ef703e6c29391f51fc3098f,1,1,FrontEnd/static/java/ArticleListSearch.js,3
+Jude,c794338db44583395ef703e6c29391f51fc3098f,1,1,FrontEnd/static/java/FacultyListSearch.js,3
+Jude,b0aa5bf17b5fb18cedaaf90c6c42b330b172edfb,8,2,FrontEnd/server.py,6
+Jude,b0aa5bf17b5fb18cedaaf90c6c42b330b172edfb,1,1,FrontEnd/static/java/ArticleInfoSearch.js,6
+Jude,b0aa5bf17b5fb18cedaaf90c6c42b330b172edfb,57,27,FrontEnd/static/java/ArticleListSearch.js,6
+Jude,b0aa5bf17b5fb18cedaaf90c6c42b330b172edfb,6,6,FrontEnd/static/java/FacultyInfoSearch.js,6
+Jude,b0aa5bf17b5fb18cedaaf90c6c42b330b172edfb,22,21,FrontEnd/static/java/FacultyListSearch.js,6
+Jude,b0aa5bf17b5fb18cedaaf90c6c42b330b172edfb,25,24,FrontEnd/static/java/TopicSearch.js,6
+Jude,16e349d7790509fbfbfe337042277989aa8ed596,5,1,FrontEnd/server.py,1
+Jude Maggitti,b3f75c33455f8f6a6e77f8fb9ffb7b3a39690880,36,0,FrontEnd/server.py,6
+Jude Maggitti,b3f75c33455f8f6a6e77f8fb9ffb7b3a39690880,28,0,FrontEnd/templates/java/ArticleInfoSearch.js,6
+Jude Maggitti,b3f75c33455f8f6a6e77f8fb9ffb7b3a39690880,28,0,FrontEnd/templates/java/ArticleListSearch.js,6
+Jude Maggitti,b3f75c33455f8f6a6e77f8fb9ffb7b3a39690880,22,0,FrontEnd/templates/java/FacultyInfoSearch.js,6
+Jude Maggitti,b3f75c33455f8f6a6e77f8fb9ffb7b3a39690880,25,0,FrontEnd/templates/java/FacultyListSearch.js,6
+Jude Maggitti,b3f75c33455f8f6a6e77f8fb9ffb7b3a39690880,29,0,FrontEnd/templates/java/TopicSearch.js,6
+Underlord711,90019ba1ea7a635563379f04d7eebb5cc2cb7b22,2,2,WebDev/Mockups/ArticlesA-Z/ArticlesA-Z.html,4
+Underlord711,90019ba1ea7a635563379f04d7eebb5cc2cb7b22,2,2,WebDev/Mockups/FacultyA-Z/FacultyA-Z.html,4
+Underlord711,90019ba1ea7a635563379f04d7eebb5cc2cb7b22,2,2,WebDev/Mockups/Home/Home.html,4
+Underlord711,90019ba1ea7a635563379f04d7eebb5cc2cb7b22,2,2,WebDev/Mockups/TopicA-Z/TopicA-Z.html,4
+Underlord711,d853bc57f5a4e790a24cf6951cd67a22ef8ae3ca,4,4,WebDev/Mockups/ArticlesA-Z/ArticlesA-Z.html,3
+Underlord711,d853bc57f5a4e790a24cf6951cd67a22ef8ae3ca,4,4,WebDev/Mockups/FacultyA-Z/FacultyA-Z.html,3
+Underlord711,d853bc57f5a4e790a24cf6951cd67a22ef8ae3ca,4,4,WebDev/Mockups/TopicA-Z/TopicA-Z.html,3
+Underlord711,1c480032c852bd3470a4f8241ef17ea460fe3c35,4,4,WebDev/Mockups/Home/Home.html,1
+Cole Barbes,15a9c8b043cc1883fc3cf79c26b6a21b760ac0ca,2,1,Arxiv-Training/Data_Management/data_class.py,6
+Cole Barbes,15a9c8b043cc1883fc3cf79c26b6a21b760ac0ca,0,0,Arxiv-Training/Data_Management/scaper.py,6
+Cole Barbes,15a9c8b043cc1883fc3cf79c26b6a21b760ac0ca,37,0,Arxiv-Training/Data_Management/scraper.py,6
+Cole Barbes,15a9c8b043cc1883fc3cf79c26b6a21b760ac0ca,22,0,Arxiv-Training/Testing/mongotest.py,6
+Cole Barbes,15a9c8b043cc1883fc3cf79c26b6a21b760ac0ca,69,0,DesignDocument/DesignDoc2.0.md,6
+Cole Barbes,15a9c8b043cc1883fc3cf79c26b6a21b760ac0ca,72,0,DesignDocument/DesignDoc_Draft2(1).md,6
+Underlord711,94ea2eef6f5adb17333ead57d3cbb4a32a28402b,22,0,WebDev/Mockups/ArticlesA-Z/styles.css,1
+Underlord711,8b40048fed1a0f0431159c6ce9d2ef1453e47d96,6,0,WebDev/Mockups/ArticlesA-Z/styles.css,1
+Underlord711,02ad9136266876b426fb5c560ebbcb63433430e2,7,0,WebDev/Mockups/ArticlesA-Z/ArticlesA-Z.html,8
+Underlord711,02ad9136266876b426fb5c560ebbcb63433430e2,11,3,WebDev/Mockups/ArticlesA-Z/styles.css,8
+Underlord711,02ad9136266876b426fb5c560ebbcb63433430e2,4,0,WebDev/Mockups/FacultyA-Z/FacultyA-Z.html,8
+Underlord711,02ad9136266876b426fb5c560ebbcb63433430e2,27,0,WebDev/Mockups/FacultyA-Z/styles.css,8
+Underlord711,02ad9136266876b426fb5c560ebbcb63433430e2,5,1,WebDev/Mockups/Home/Home.html,8
+Underlord711,02ad9136266876b426fb5c560ebbcb63433430e2,30,1,WebDev/Mockups/Home/styles.css,8
+Underlord711,02ad9136266876b426fb5c560ebbcb63433430e2,5,1,WebDev/Mockups/TopicA-Z/TopicA-Z.html,8
+Underlord711,02ad9136266876b426fb5c560ebbcb63433430e2,31,1,WebDev/Mockups/TopicA-Z/styles.css,8
+Underlord711,c55083bc1294f5e9ee28adb8ac0acd661f602dc6,28,0,FrontEnd/package/java/ArticleInfoSearch.js,8
+Underlord711,c55083bc1294f5e9ee28adb8ac0acd661f602dc6,28,0,FrontEnd/package/java/ArticleListSearch.js,8
+Underlord711,c55083bc1294f5e9ee28adb8ac0acd661f602dc6,22,0,FrontEnd/package/java/FacultyInfoSearch.js,8
+Underlord711,c55083bc1294f5e9ee28adb8ac0acd661f602dc6,25,0,FrontEnd/package/java/FacultyListSearch.js,8
+Underlord711,c55083bc1294f5e9ee28adb8ac0acd661f602dc6,29,0,FrontEnd/package/java/TopicSearch.js,8
+Underlord711,c55083bc1294f5e9ee28adb8ac0acd661f602dc6,65,0,FrontEnd/package/style/Title.css,8
+Underlord711,c55083bc1294f5e9ee28adb8ac0acd661f602dc6,110,0,FrontEnd/package/style/style.css,8
+Underlord711,c55083bc1294f5e9ee28adb8ac0acd661f602dc6,42,0,FrontEnd/server.js,8
+Underlord711,4dc7f31cb4115b3ec80d7db04dca1944fa52172e,28,0,WebDev/Mockups/HomePage/styles.css,2
+Underlord711,4dc7f31cb4115b3ec80d7db04dca1944fa52172e,0,43,WebDev/Mockups/TopicA-Z/TopicsA-Z.html,2
+Jude,bf23bddae1d49acf55c98d7f580fe41991ed7331,5,1,FrontEnd/package/java/ArticleListSearch.js,3
+Jude,bf23bddae1d49acf55c98d7f580fe41991ed7331,2,1,FrontEnd/package/java/FacultyListSearch.js,3
+Jude,bf23bddae1d49acf55c98d7f580fe41991ed7331,14,0,FrontEnd/package/style/style.css,3
+Jude,d107434d1552c338dd14a6978e1a324e3133e4cc,24,0,FrontEnd/package/java/ArticleListSearch.js,2
+Jude,d107434d1552c338dd14a6978e1a324e3133e4cc,18,2,FrontEnd/package/style/style.css,2
+Jude,4a767e1d676be4e6161020fbf3b2614299554083,24,0,FrontEnd/package/java/FacultyListSearch.js,1
+Jude,ef8dd53e4ccfbd68fc23fa852f88422581895661,29,0,FrontEnd/package/java/TopicSearch.js,3
+Jude,ef8dd53e4ccfbd68fc23fa852f88422581895661,0,0,FrontEnd/search.js,3
+Jude,ef8dd53e4ccfbd68fc23fa852f88422581895661,5,1,FrontEnd/server.js,3
+Jude,38971bf78e19f2d9f11d4d682efffaace3d95820,46,0,FrontEnd/Article.html,5
+Jude,38971bf78e19f2d9f11d4d682efffaace3d95820,2,3,FrontEnd/Faculty.html,5
+Jude,38971bf78e19f2d9f11d4d682efffaace3d95820,32,23,FrontEnd/index.html,5
+Jude,38971bf78e19f2d9f11d4d682efffaace3d95820,6,0,FrontEnd/server.js,5
+Jude,38971bf78e19f2d9f11d4d682efffaace3d95820,11,1,FrontEnd/style/style.css,5
+Jude,c88e2af8516003d94a1e4f6fb73098a4580acdde,33,0,FrontEnd/index.html,1
+Jude,463c7e9294496df6c0cd9c5a37cb7471e78a731e,6,1,FrontEnd/ArticleInfo.html,5
+Jude,463c7e9294496df6c0cd9c5a37cb7471e78a731e,6,0,FrontEnd/ArticleInfoSearch.js,5
+Jude,463c7e9294496df6c0cd9c5a37cb7471e78a731e,54,0,FrontEnd/Faculty.html,5
+Jude,463c7e9294496df6c0cd9c5a37cb7471e78a731e,3,3,FrontEnd/FacultyInfoSearch.js,5
+Jude,463c7e9294496df6c0cd9c5a37cb7471e78a731e,65,0,FrontEnd/style/style.css,5
+Jude,beb0523a6f22a3a860778163ae99cf0df22a742c,11,12,FrontEnd/ArticleInfo.html,3
+Jude,beb0523a6f22a3a860778163ae99cf0df22a742c,18,11,FrontEnd/FacultyInfo.html,3
+Jude,beb0523a6f22a3a860778163ae99cf0df22a742c,22,0,FrontEnd/FacultyInfoSearch.js,3
+Jude,fe839fe20d18ef543416be6431ace0b61a440785,27,0,FrontEnd/ArticleInfoSearch.js,4
+Jude,fe839fe20d18ef543416be6431ace0b61a440785,15,30,FrontEnd/ArticleInfoTest.html,4
+Jude,fe839fe20d18ef543416be6431ace0b61a440785,3,0,FrontEnd/server.js,4
+Jude,fe839fe20d18ef543416be6431ace0b61a440785,17,0,FrontEnd/testPage.html,4
+Jude,d9d05586ca74f23228b0fbd8b90729b305385b60,22,15,FrontEnd/ArticleInfoTest.html,1
+Jude,c030a0b45839912fae8feca25f6d9cd0c73daf02,63,0,FrontEnd/ArticleInfoTest.html,2
+Jude,c030a0b45839912fae8feca25f6d9cd0c73daf02,0,0,FrontEnd/search.js,2
+SpencerPresley,f7c27dccdb16c7301939e062a546d5071caa8039,2,1,PythonCode/Utilities/My_Data_Classes.py,4
+SpencerPresley,f7c27dccdb16c7301939e062a546d5071caa8039,1,0,PythonCode/Utilities/category_processor.py,4
+SpencerPresley,f7c27dccdb16c7301939e062a546d5071caa8039,7,1,PythonCode/Utilities/faculty_department_manager.py,4
+SpencerPresley,f7c27dccdb16c7301939e062a546d5071caa8039,1,1,PythonCode/Utilities/wos_classification.py,4
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,0,42,WebDev/Mockups/ArticlesA-Z/Articles.html,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,33,0,WebDev/Mockups/ArticlesA-Z/ArticlesA-Z.html,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,54,63,WebDev/Mockups/ArticlesA-Z/styles.css,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,34,0,WebDev/Mockups/FacultyA-Z/FacultyA-Z.html,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,22,0,WebDev/Mockups/FacultyA-Z/Title.css,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,79,0,WebDev/Mockups/FacultyA-Z/styles.css,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,0,61,WebDev/Mockups/FacultyPage.html/Faculty.html,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,0,25,WebDev/Mockups/FacultyPage.html/styles.css,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,33,0,WebDev/Mockups/Home/Home.html,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,53,0,WebDev/Mockups/Home/styles.css,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,0,33,WebDev/Mockups/TopicA-Z/Title.css,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,32,0,WebDev/Mockups/TopicA-Z/TopicA-Z.html,13
+Underlord711,410c0bde779b3071d1926813a4cccb31a6e01c17,53,17,WebDev/Mockups/TopicA-Z/styles.css,13
+Jude,86ce8ad576b1d5fcc9418a4f9828e64ec186571f,1,1,FrontEnd/ArticleInfo.html,3
+Jude,86ce8ad576b1d5fcc9418a4f9828e64ec186571f,1,1,FrontEnd/FacultyInfo.html,3
+Jude,86ce8ad576b1d5fcc9418a4f9828e64ec186571f,8,4,FrontEnd/server.js,3
+Jude Maggitti,c0a2b099b6d614e88d4fbaa29595e3aa5282541c,56,0,FrontEnd/ArticleInfo.html,4
+Jude Maggitti,c0a2b099b6d614e88d4fbaa29595e3aa5282541c,49,0,FrontEnd/FacultyInfo.html,4
+Jude Maggitti,c0a2b099b6d614e88d4fbaa29595e3aa5282541c,25,0,FrontEnd/server.js,4
+Jude Maggitti,c0a2b099b6d614e88d4fbaa29595e3aa5282541c,65,0,FrontEnd/style/Title.css,4
+Jude Maggitti,bfc5b6eab839222f2cb14d314e2fe92de92c9447,1,2,FrontEnd/ArticleInfo.html,3
+Jude Maggitti,bfc5b6eab839222f2cb14d314e2fe92de92c9447,1,2,FrontEnd/FacultyInfo.html,3
+Jude Maggitti,bfc5b6eab839222f2cb14d314e2fe92de92c9447,25,0,FrontEnd/server.js,3
+Jude Maggitti,55d17a5556862be39ebd96dea6f9539f943d6bf1,57,0,FrontEnd/ArticleInfo.html,5
+Jude Maggitti,55d17a5556862be39ebd96dea6f9539f943d6bf1,50,0,FrontEnd/FacultyInfo.html,5
+Jude Maggitti,55d17a5556862be39ebd96dea6f9539f943d6bf1,34,0,FrontEnd/Title.css,5
+Jude Maggitti,55d17a5556862be39ebd96dea6f9539f943d6bf1,0,0,FrontEnd/server.js,5
+Jude Maggitti,55d17a5556862be39ebd96dea6f9539f943d6bf1,30,0,FrontEnd/styles.css,5
+Cole Barbes,b2e9eb2e3bb42e592efd5f06b129ed2e2434904c,0,0,Arxiv-Training/Data_Management/__init__.py,6
+Cole Barbes,b2e9eb2e3bb42e592efd5f06b129ed2e2434904c,22,52,Arxiv-Training/Data_Management/file_convert.py,6
+Cole Barbes,b2e9eb2e3bb42e592efd5f06b129ed2e2434904c,0,0,Arxiv-Training/Data_Management/scaper.py,6
+Cole Barbes,b2e9eb2e3bb42e592efd5f06b129ed2e2434904c,0,5,Arxiv-Training/Data_Management/test.py,6
+Cole Barbes,b2e9eb2e3bb42e592efd5f06b129ed2e2434904c,0,0,Arxiv-Training/Testing/mongotest.py,6
+Cole Barbes,b2e9eb2e3bb42e592efd5f06b129ed2e2434904c,5,0,Arxiv-Training/Testing/test.py,6
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,1,0,.gitignore,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,-,-,PythonCode/TFModel/DataVisualization/abstract_cat_wos.xls,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,87,0,PythonCode/TFModel/DataVisualization/category_color_mapping.txt,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,272,0,PythonCode/TFModel/DataVisualization/data_visualization.ipynb,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,347,0,PythonCode/TFModel/DataVisualization/datavis.ipynb,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,406,0,PythonCode/TFModel/DataVisualization/datavis2.ipynb,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,14,0,PythonCode/TFModel/DataVisualization/plot.html,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,14,0,PythonCode/TFModel/DataVisualization/plot2.html,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,24,0,PythonCode/TFModel/model.ipynb,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,1,2,PythonCode/Utilities/My_Data_Classes.py,11
+SpencerPresley,e60d7211b5794262742f760c6d7e5688ca931158,0,0,PythonCode/__init__.py,11
+SpencerPresley,913f427e7b886a66382c0017adf4e8bcb701637c,1,0,.gitignore,1
+Cole Barbes,63883678ce74621b1a0f482e5f7072a561a011e2,26,0,Arxiv-Training/Data_Management/data_class.py,2
+Cole Barbes,63883678ce74621b1a0f482e5f7072a561a011e2,5,2,Arxiv-Training/Data_Management/file_convert.py,2
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,0,0,GeneralUtilities/__init__.py,9
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,100,0,GeneralUtilities/file_ops/file_ops.py,9
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,109,0,GeneralUtilities/file_ops/file_ops_Documentation.md,9
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,40,0,GeneralUtilities/logging/logger.py,9
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,52,0,GeneralUtilities/logging/logger_Documentation.md,9
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,64,0,GeneralUtilities/performance_monitoring/performance_monitoring.md,9
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,18,0,GeneralUtilities/performance_monitoring/pm_tools.py,9
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,1,0,GeneralUtilities/performance_monitoring/requirements.txt,9
+SpencerPresley,abadcc76f26e2361794c7146ec34723ad2f687fd,1,2,PythonCode/Utilities/wos_classification.py,9
+SpencerPresley,bfad3513f10326931787fffa98d47f1728858def,162,0,PythonCode/Deprecated/DEPRECATED_wos_classification.py,1
+SpencerPresley,e937fa7b9e106c77693c2c741476922840e7267b,42,0,PythonCode/Utilities/category_processor.py,4
+SpencerPresley,e937fa7b9e106c77693c2c741476922840e7267b,37,0,PythonCode/Utilities/faculty_department_manager.py,4
+SpencerPresley,e937fa7b9e106c77693c2c741476922840e7267b,20,0,PythonCode/Utilities/file_handler.py,4
+SpencerPresley,e937fa7b9e106c77693c2c741476922840e7267b,57,143,PythonCode/Utilities/wos_classification.py,4
+SpencerPresley,4757d33980337b17e64bfa74ddbaa550af9c7a1d,15,1,PythonCode/Utilities/My_Data_Classes.py,3
+SpencerPresley,4757d33980337b17e64bfa74ddbaa550af9c7a1d,51,49,PythonCode/Utilities/faculty_set_postprocessor.py,3
+SpencerPresley,4757d33980337b17e64bfa74ddbaa550af9c7a1d,40,43,PythonCode/Utilities/wos_classification.py,3
+SpencerPresley,61c64a60d2afedc7cacd3ded27867f429423cb87,1,0,.gitignore,3
+SpencerPresley,61c64a60d2afedc7cacd3ded27867f429423cb87,402,0,PythonCode/Deprecated/DEPRECATED_faculty_processor.py,3
+SpencerPresley,61c64a60d2afedc7cacd3ded27867f429423cb87,0,0,PythonCode/NeuralNet/empty.txt,3
+SpencerPresley,0a23b9af0fcbb9f79931a88690b9c6934e476572,12,0,PythonCode/Utilities/My_Data_Classes.py,2
+SpencerPresley,0a23b9af0fcbb9f79931a88690b9c6934e476572,1,0,PythonCode/Utilities/wos_classification.py,2
+Spencer Presley,029ae6f976e8822368a6ef652c3f1b52cb92f75d,23,46,WebDev/Mockups/HomePage/Articles.html,4
+Spencer Presley,029ae6f976e8822368a6ef652c3f1b52cb92f75d,44,20,WebDev/Mockups/HomePage/styles.css,4
+Spencer Presley,029ae6f976e8822368a6ef652c3f1b52cb92f75d,19,30,WebDev/Mockups/TopicA-Z/TopicsA-Z.html,4
+Spencer Presley,029ae6f976e8822368a6ef652c3f1b52cb92f75d,49,13,WebDev/Mockups/TopicA-Z/styles.css,4
+Spencer Presley,566dd2e3b808f8b6a9863a76b6df2b4e3092834d,20,45,WebDev/Mockups/FacultyPage.html/Faculty.html,2
+Spencer Presley,566dd2e3b808f8b6a9863a76b6df2b4e3092834d,64,12,WebDev/Mockups/FacultyPage.html/styles.css,2
+Cole Barbes,68722b6361cf11f7de42d53708a92350d9add4ef,5,0,Arxiv-Training/Data_Management/test.py,2
+Cole Barbes,68722b6361cf11f7de42d53708a92350d9add4ef,0,5,Arxiv-Training/test.py,2
+SpencerPresley,17e988852d4b6f6ec0c57d8118eea23967d27dcc,0,2,PythonCode/Utilities/UnitTesting.py,4
+SpencerPresley,17e988852d4b6f6ec0c57d8118eea23967d27dcc,0,30,PythonCode/Utilities/faculty_set_postprocessor.py,4
+SpencerPresley,17e988852d4b6f6ec0c57d8118eea23967d27dcc,2,27,PythonCode/Utilities/utilities.py,4
+SpencerPresley,17e988852d4b6f6ec0c57d8118eea23967d27dcc,2,68,PythonCode/Utilities/wos_classification.py,4
+Spencer Presley,9a51c8d2a41697a654408316a9e48d13080e5e20,0,175,PythonCode/WoS_Classification/WoS_Classification.py,1
+SpencerPresley,68f0c05db61e193524e839c6518cc3cbfff60b37,0,402,PythonCode/Utilities/DEPRECATED_faculty_processor.py,2
+SpencerPresley,68f0c05db61e193524e839c6518cc3cbfff60b37,175,0,PythonCode/Utilities/Unused/WoS_Classification/WoS_Classification.py,2
+SpencerPresley,c7818939cc6a1cf48fe26e71c7806fcefdaf4608,12,11,PythonCode/Utilities/UnitTesting.py,4
+SpencerPresley,c7818939cc6a1cf48fe26e71c7806fcefdaf4608,16,7,PythonCode/Utilities/faculty_set_postprocessor.py,4
+SpencerPresley,c7818939cc6a1cf48fe26e71c7806fcefdaf4608,15,15,PythonCode/Utilities/utilities.py,4
+SpencerPresley,c7818939cc6a1cf48fe26e71c7806fcefdaf4608,21,12,PythonCode/Utilities/wos_classification.py,4
+Underlord711,ecf42794a58dfd90b4c695c3d7827ab97574d4e7,0,0,WebDev/Mockups/ArticlesA-Z/styles2.css,1
+Underlord711,f6f572c25f7613b3e1f8902c48e58e14d17892a8,3,34,WebDev/Mockups/ArticlesA-Z/Title.css,3
+Underlord711,f6f572c25f7613b3e1f8902c48e58e14d17892a8,36,0,WebDev/Mockups/ArticlesA-Z/styles.css,3
+Underlord711,f6f572c25f7613b3e1f8902c48e58e14d17892a8,0,8,WebDev/Mockups/ArticlesA-Z/tailwind.config.js,3
+SpencerPresley,6ae46280bc340416a8c929f7fdd91a9a05d1d32a,4,9,PythonCode/Utilities/faculty_set_postprocessor.py,1
+SpencerPresley,e602cee0b9e78a6f93a3e88d99da2433f6a33f84,27,15,PythonCode/Utilities/UnitTesting.py,2
+SpencerPresley,e602cee0b9e78a6f93a3e88d99da2433f6a33f84,185,0,PythonCode/Utilities/faculty_set_postprocessor.py,2
+Underlord711,8af6b3e04d631abe15dab037b3dfb1c5efafe6c1,10,12,WebDev/Mockups/ArticlesA-Z/Articles.html,2
+Underlord711,8af6b3e04d631abe15dab037b3dfb1c5efafe6c1,8,0,WebDev/Mockups/ArticlesA-Z/tailwind.config.js,2
+Underlord711,8b02f4d1ce173715c0056f91d23d03feb411d382,1,0,WebDev/Mockups/ArticlesA-Z/Articles.html,3
+Underlord711,8b02f4d1ce173715c0056f91d23d03feb411d382,5,4,WebDev/Mockups/ArticlesA-Z/Title.css,3
+Underlord711,8b02f4d1ce173715c0056f91d23d03feb411d382,1,1,WebDev/Mockups/ArticlesA-Z/styles.css,3
+Underlord711,fa553c091a1e5368060d321bd82c0ca8569dac0c,-,-,WebDev/Mockups/Deliverable 1.pdf,1
+SpencerPresley,2776ada3c911174a7ad6139ff303042a80a63960,23,5,PythonCode/Utilities/UnitTesting.py,2
+SpencerPresley,2776ada3c911174a7ad6139ff303042a80a63960,25,10,PythonCode/Utilities/faculty_processor.py,2
+SpencerPresley,6a7056c9dd08fd7ccee18986b938f198691e0a25,68,0,PythonCode/Utilities/UnitTesting.py,2
+SpencerPresley,6a7056c9dd08fd7ccee18986b938f198691e0a25,148,8,PythonCode/Utilities/faculty_processor.py,2
+Underlord711,ed7a53c6c6912c9104a2e2bc9b462fb777ea997f,56,0,WebDev/Mockups/HomePage/Articles.html,3
+Underlord711,ed7a53c6c6912c9104a2e2bc9b462fb777ea997f,33,0,WebDev/Mockups/HomePage/Title.css,3
+Underlord711,ed7a53c6c6912c9104a2e2bc9b462fb777ea997f,30,0,WebDev/Mockups/HomePage/styles.css,3
+Underlord711,36938cbb3a3b8b5a77ad2dd53c619e4bff6c3e78,43,0,WebDev/Mockups/ArticlesA-Z/Articles.html,3
+Underlord711,36938cbb3a3b8b5a77ad2dd53c619e4bff6c3e78,33,0,WebDev/Mockups/ArticlesA-Z/Title.css,3
+Underlord711,36938cbb3a3b8b5a77ad2dd53c619e4bff6c3e78,27,0,WebDev/Mockups/ArticlesA-Z/styles.css,3
+Underlord711,bfee3c16460ef58994a1617d495dc57587aebcb9,61,0,WebDev/Mockups/FacultyPage.html/Faculty.html,3
+Underlord711,bfee3c16460ef58994a1617d495dc57587aebcb9,33,0,WebDev/Mockups/FacultyPage.html/Title.css,3
+Underlord711,bfee3c16460ef58994a1617d495dc57587aebcb9,25,0,WebDev/Mockups/FacultyPage.html/styles.css,3
+Underlord711,d77aae910d6867c3b74cf044a9308e8e075fee61,7,2,WebDev/Mockups/TopicA-Z/Title.css,3
+Underlord711,d77aae910d6867c3b74cf044a9308e8e075fee61,36,20,WebDev/Mockups/TopicA-Z/TopicsA-Z.html,3
+Underlord711,d77aae910d6867c3b74cf044a9308e8e075fee61,17,0,WebDev/Mockups/TopicA-Z/styles.css,3
+Underlord711,e096fd10f7157876ae704d0c04ffb298e351adac,28,0,WebDev/Mockups/TopicA-Z/Title.css,2
+Underlord711,e096fd10f7157876ae704d0c04ffb298e351adac,27,0,WebDev/Mockups/TopicA-Z/TopicsA-Z.html,2
+Spencer Presley,9520280bdcf85f88fe3ef944befb89e499cfd30c,3,2,PythonCode/NeuralNet/Architecture_Draft.md,1
+Spencer Presley,bc078c2db798ef68cd5bfcbcf45146d45d2ed2b1,68,0,PythonCode/NeuralNet/Architecture_Draft.md,1
+SpencerPresley,c3848f4842ced7c1848ed7b0978a74b3a0c30598,5,1,.gitignore,3
+SpencerPresley,c3848f4842ced7c1848ed7b0978a74b3a0c30598,17,0,DesignDocument/ColeSpencerGamePlan2-23.md,3
+SpencerPresley,c3848f4842ced7c1848ed7b0978a74b3a0c30598,115,0,DesignDocument/DesignDocument_Draft_1.md,3
+Underlord711,55a9e046cafa3546c55ac348f4ac2fd1941d90f0,39,0,WebDev/Jsom_Stuff/Counts.js,1
+Cole Barbes,f15db8b9fb12e5ce0002b1f1f4287afaf06bcddd,13,0,Arxiv-Training/webscript.py,1
+Cole Barbes,40cb15e931057cf7e1a0f249ae122d0b5271ad42,48,1,Arxiv-Training/BERT.md,1
+Cole Barbes,60af2ed8d6847df6d053729cfa9e74863f77a606,15,0,Arxiv-Training/BERT.md,1
+cbarbes,0ea2dafe68a0798a3ce65d22b88c8ff61d471f0d,0,526,Arxiv-Training/arxiv_testing.ipynb,4
+cbarbes,0ea2dafe68a0798a3ce65d22b88c8ff61d471f0d,0,342,Arxiv-Training/bertopic.ipynb,4
+cbarbes,0ea2dafe68a0798a3ce65d22b88c8ff61d471f0d,496,0,Arxiv-Training/test_bert.ipynb,4
+cbarbes,0ea2dafe68a0798a3ce65d22b88c8ff61d471f0d,0,5,Arxiv-Training/wos.py,4
+SpencerPresley,27412671ba66aeaa668dc1f0f81b13ad6dfba647,2,3,PythonCode/Utilities/utilities.py,1
+SpencerPresley,0d42bf5443b5eff63567d0a4e33b4333bc4b20d8,47,0,PythonCode/NeuralNet/testing/DEPRECATED_model_test2.py,3
+SpencerPresley,0d42bf5443b5eff63567d0a4e33b4333bc4b20d8,-,-,PythonCode/NeuralNet/testing/corpora/omw-1.4.zip,3
+SpencerPresley,0d42bf5443b5eff63567d0a4e33b4333bc4b20d8,-,-,PythonCode/NeuralNet/testing/corpora/wordnet.zip,3
+SpencerPresley,4211c3ac69339c78c9092ac75a1815278cf2b8cc,53,3,PythonCode/Utilities/utilities.py,1
+SpencerPresley,aecc37d14f05d318a878ac5fed20c7e41c50beaa,155,121,PythonCode/NeuralNet/testing/model_tools.py,1
+SpencerPresley,4f188019e49d27a7c1c2b2627c60e583776773be,29,7,PythonCode/NeuralNet/testing/model_tools.py,1
+SpencerPresley,96ce770db2bc1b6b077d48494274b3d849d81431,36,14,PythonCode/NeuralNet/testing/model_tools.py,1
+SpencerPresley,d695eb898d571b374d82bf67d7f653c64146e233,118,68,PythonCode/NeuralNet/testing/model_tools.py,1
+SpencerPresley,940e3020a94ab6ba54a64f1770cd99313fa8db08,2,1,.gitignore,3
+SpencerPresley,940e3020a94ab6ba54a64f1770cd99313fa8db08,9,7,PythonCode/NeuralNet/testing/model_test.py,3
+SpencerPresley,940e3020a94ab6ba54a64f1770cd99313fa8db08,103,0,PythonCode/NeuralNet/testing/model_tools.py,3
+Will Chmar,de42169bbf50ca04abfebf47444e20916745de0c,-,-,WebDev/Mockups/Deliverable 1.pdf,7
+Will Chmar,de42169bbf50ca04abfebf47444e20916745de0c,56,0,WebDev/Mockups/mockup.html,7
+Will Chmar,de42169bbf50ca04abfebf47444e20916745de0c,48,0,WebDev/Mockups/styles.css,7
+Will Chmar,de42169bbf50ca04abfebf47444e20916745de0c,0,0,WebDev/Tutorial/empty.txt,7
+Will Chmar,de42169bbf50ca04abfebf47444e20916745de0c,11,0,WebDev/Tutorial/index.html,7
+Will Chmar,de42169bbf50ca04abfebf47444e20916745de0c,17,0,WebDev/Tutorial/server.js,7
+Will Chmar,de42169bbf50ca04abfebf47444e20916745de0c,0,0,WebDev/empty.txt,7
+Cole Barbes,574ca18adcb7193abeb567fdc9f725ea0f774136,0,1,Arxiv-Training/abstracts.txt,2
+Cole Barbes,574ca18adcb7193abeb567fdc9f725ea0f774136,6,0,Arxiv-Training/arxiv-testing.py,2
+SpencerPresley,c1a885ad34a7db9b8e902e3b35bc3ddb8b71ebae,0,0,PythonCode/NeuralNet/empty.txt,5
+SpencerPresley,c1a885ad34a7db9b8e902e3b35bc3ddb8b71ebae,-,-,PythonCode/NeuralNet/testing/archive.zip,5
+SpencerPresley,c1a885ad34a7db9b8e902e3b35bc3ddb8b71ebae,10,0,PythonCode/NeuralNet/testing/dataset_testing.py,5
+SpencerPresley,c1a885ad34a7db9b8e902e3b35bc3ddb8b71ebae,108,0,PythonCode/NeuralNet/testing/model_test.py,5
+SpencerPresley,c1a885ad34a7db9b8e902e3b35bc3ddb8b71ebae,12,2,PythonCode/Utilities/arxivAPItest.py,5
+cbarbes,0e12842c1f29112d5d39c4fba56047ef1e34ab4f,0,0,Arxiv-Training/BERT.md,4
+cbarbes,0e12842c1f29112d5d39c4fba56047ef1e34ab4f,0,0,Arxiv-Training/Notes.md,4
+cbarbes,0e12842c1f29112d5d39c4fba56047ef1e34ab4f,404,47,Arxiv-Training/arxiv_testing.ipynb,4
+cbarbes,0e12842c1f29112d5d39c4fba56047ef1e34ab4f,0,0,Arxiv-Training/design.md,4
+SpencerPresley,61f96112b51f0e9c1478adff3ed545ec9abf689f,32,0,PythonCode/Utilities/arxivAPItest.py,5
+SpencerPresley,61f96112b51f0e9c1478adff3ed545ec9abf689f,1,0,PythonCode/Utilities/arxivAPItestAB.txt,5
+SpencerPresley,61f96112b51f0e9c1478adff3ed545ec9abf689f,-,-,PythonCode/Utilities/document.pdf,5
+SpencerPresley,61f96112b51f0e9c1478adff3ed545ec9abf689f,4,0,PythonCode/Utilities/utilities.py,5
+SpencerPresley,61f96112b51f0e9c1478adff3ed545ec9abf689f,19,0,PythonCode/Utilities/wos_classification.py,5
+cbarbes,029b62bbff76b4d3f588a763740dd3db8f7aa334,0,1,Rommel-Center-Research,1
+Cole Barbes,a595b0fc55d934e3ef0735565f06e48aabc3a136,1,0,Arxiv-Training/abstracts.txt,4
+Cole Barbes,a595b0fc55d934e3ef0735565f06e48aabc3a136,231,46,Arxiv-Training/bertopic.ipynb,4
+Cole Barbes,a595b0fc55d934e3ef0735565f06e48aabc3a136,11,1,Arxiv-Training/file_convert.py,4
+Cole Barbes,a595b0fc55d934e3ef0735565f06e48aabc3a136,5,0,Arxiv-Training/wos.py,4
+cbarbes,965d642af26fb227e32c605a5a5edb33acfb33da,36,10,Arxiv-Training/file_convert.py,2
+cbarbes,965d642af26fb227e32c605a5a5edb33acfb33da,5,0,Arxiv-Training/test.py,2
+SpencerPresley,06ebe5a5a10b74fb14ee112396a95beb9574fdfe,175,0,PythonCode/Utilities/duplicate_name_handler.py,2
+SpencerPresley,06ebe5a5a10b74fb14ee112396a95beb9574fdfe,3,3,PythonCode/Utilities/wos_classification.py,2
+Spencer Presley,e3bd9e8fa45baecba81db76c9e309eceb1fad917,1,1,PythonCode/Utilities/main.py,4
+Spencer Presley,e3bd9e8fa45baecba81db76c9e309eceb1fad917,4,1,PythonCode/Utilities/test.py,4
+Spencer Presley,e3bd9e8fa45baecba81db76c9e309eceb1fad917,15,4,PythonCode/Utilities/utilities.py,4
+Spencer Presley,e3bd9e8fa45baecba81db76c9e309eceb1fad917,18,10,PythonCode/Utilities/wos_classification.py,4
+SpencerPresley,72aeef275f0e58de787ff2a8ee943197646dbf9a,10,0,PythonCode/Utilities/test.py,3
+SpencerPresley,72aeef275f0e58de787ff2a8ee943197646dbf9a,85,3,PythonCode/Utilities/utilities.py,3
+SpencerPresley,72aeef275f0e58de787ff2a8ee943197646dbf9a,132,9,PythonCode/Utilities/wos_classification.py,3
+Cole Barbes,5a424015722f48d4adbceeb404d7ab05c667120d,169,0,Arxiv-Training/arxiv_testing.ipynb,1
+Cole Barbes,f267ecac43ccd65f590ba9e0e741828040052373,0,0,Arxiv-Training/.gitignore,3
+Cole Barbes,f267ecac43ccd65f590ba9e0e741828040052373,29,0,Arxiv-Training/file_convert.py,3
+Cole Barbes,f267ecac43ccd65f590ba9e0e741828040052373,3,16,Arxiv-Training/process.py,3
+Cole Barbes,33df56379e97b966a2168cedfb70c03d0c1efd8d,1,0,Arxiv-Training/README.md,3
+Cole Barbes,33df56379e97b966a2168cedfb70c03d0c1efd8d,157,0,Arxiv-Training/bertopic.ipynb,3
+Cole Barbes,33df56379e97b966a2168cedfb70c03d0c1efd8d,18,0,Arxiv-Training/process.py,3
+SpencerPresley,69e610007df658b365c9d6085cfdbebe96f97170,14,7,PythonCode/Utilities/wos_classification.py,1
+SpencerPresley,0ef2640823beab923f6bf8eea8e12a410e4c6b72,1,0,PythonCode/Utilities/wos_classification.py,1
+SpencerPresley,eba29c6948746c5fa6a12f34a5eb9ea12dafdce9,4,6,PythonCode/WoS_Classification/WoS_Classification.py,1
+SpencerPresley,15d803e6925990112186ef47d3685b8d84d33d62,114,65,PythonCode/Utilities/utilities.py,2
+SpencerPresley,15d803e6925990112186ef47d3685b8d84d33d62,63,0,PythonCode/Utilities/wos_classification.py,2
+Spencer Presley,11af30577a85c73ce2732528ab83b04d2ecdf806,1,0,Rommel-Center-Research,2
+Spencer Presley,11af30577a85c73ce2732528ab83b04d2ecdf806,59,0,Tutorials/Dictionary_Tutorial.py,2
+SpencerPresley,a2ce4ea4608b752296284a432294a1684ce61cb9,36,14,PythonCode/WoS_Classification/WoS_Classification.py,1
+Spencer Presley,6f74d3a0ac14d4d2f04b92fe3a170c8c8e628890,75,3,PythonCode/WoS_Classification/WoS_Classification.py,1
+SpencerPresley,c08089823733b6a4c0367d4342c52b14280b734d,83,0,PythonCode/WoS_Classification/WoS_Classification.py,1
+SpencerPresley,5f26f619e1394196dba7a1772df91fc85ced8f8f,4,4,Deprecated/DEPRECATED_splitter.py,5
+SpencerPresley,5f26f619e1394196dba7a1772df91fc85ced8f8f,3,3,Deprecated/deprecated_functions.py,5
+SpencerPresley,5f26f619e1394196dba7a1772df91fc85ced8f8f,2,2,Research/DOI_and_Paper_APIs.md,5
+SpencerPresley,5f26f619e1394196dba7a1772df91fc85ced8f8f,6,6,Utilities/main.py,5
+SpencerPresley,5f26f619e1394196dba7a1772df91fc85ced8f8f,18,16,Utilities/utilities.py,5
+SpencerPresley,1cbd8b3f9c1c1bcd5f457ebfc4d8515a1bcbed75,1,1,Utilities/main.py,1
+Spencer Presley,68d83d7488ceb8098e17c1bcf6d5ecf33c5b7a87,5,10,Utilities/utilities.py,1
+SpencerPresley,6923a3f3d598da00cfd3d54403933a966fc0f163,19,3,Utilities/main.py,1
+SpencerPresley,7d7e798cb398e8487654f3a7f94429ca2bb88ca6,22,0,Utilities/checkNumFiles_RemoveNewLine.py,3
+SpencerPresley,7d7e798cb398e8487654f3a7f94429ca2bb88ca6,27,0,Utilities/main.py,3
+SpencerPresley,7d7e798cb398e8487654f3a7f94429ca2bb88ca6,96,30,Utilities/utilities.py,3
+SpencerPresley,758822eddcd20a37bfb03012be390086ee5e8a01,0,29,Utilities/utilities.py,1
+Spencer Presley,ad828a6c4feaa998e900f7762e9ee18ac49b3967,4,4,Utilities/utilities.py,1
+Spencer Presley,1f8708c048afbd24e1c6b471312f65d86921ab53,0,1,Utilities/utilities.py,1
+SpencerPresley,371db558fd63610295838a26a7370ece528860ce,56,0,Utilities/DEPRECATED_splitter.py,4
+SpencerPresley,371db558fd63610295838a26a7370ece528860ce,58,0,Utilities/deprecated_functions.py,4
+SpencerPresley,371db558fd63610295838a26a7370ece528860ce,0,19,Utilities/splitter.py,4
+SpencerPresley,371db558fd63610295838a26a7370ece528860ce,126,23,Utilities/utilities.py,4
+Spencer Presley,19d4caba7e77c1803cdda50ea78af44a7f7d42cb,19,0,Utilities/splitter.py,2
+Spencer Presley,19d4caba7e77c1803cdda50ea78af44a7f7d42cb,56,0,Utilities/utilities.py,2
+SpencerPresley,521e0e736d1e6202b2a8cd4522898b23490a30ae,2,0,.gitignore,3
+SpencerPresley,521e0e736d1e6202b2a8cd4522898b23490a30ae,68,6,Research/DOI_and_Paper_APIs.md,3
+SpencerPresley,521e0e736d1e6202b2a8cd4522898b23490a30ae,-,-,Research/ScopusAPI.pdf,3
+SpencerPresley,9a6b076008ab354255f6c2c8f2c1d1f73cc951ef,9,6,Research/DOI_and_Paper_APIs.md,1
+SpencerPresley,013f9838ecee7c99e29fd749863f380bd7e4f31d,38,0,Research/DOI_and_Paper_APIs.md,1
+Cole Barbes,3439e319f2a8182553b190e0eb6aac0690f7ef6e,13,87,README.md,1
+Spencer Presley,f0c81e6ebb3b874cd645b21a588b70adb6552e1d,68,9,README.md,1
+Cole Barbes,027f6e223ad97ea79538b68659c932bf170ccc97,10,1,README.md,1
+Cole Barbes,5b7898d84f1b6f79d0ee1a72b34905ab9596cee1,1,0,README.md,1
+Cole Barbes,adbdfb562835a1905ace94826626d53a2ab55c6d,1,1,README.md,1
+Cole Barbes,96c5c1970632f48c7156d94e7fe7c767e24f9aa6,1,1,README.md,1
+Cole Barbes,f2d2b7eeade9648b4ff195ec473a78733decca71,5,7,README.md,1
+Cole Barbes,a55c090bb90da34e82dc58976790bd909ec7b0f9,27,1,README.md,1
+Cole Barbes,717af8e4d701f763bc9a01cef5503c7741feccee,16,0,README.md,1
+Cole Barbes,537399578c69d032fe00cdcc9025fe80029e2e51,2,2,README.md,1
+Cole Barbes,f371a54a998d58a576a481e51ef3ce97b5596199,1,1,README.md,1
+Cole Barbes,7f2885826898a31f4dc217fea83c3978394be202,1,1,README.md,1
+Cole Barbes,9cdcfc6e183673e1abeae91e9877aac0a6fd6fbb,2,1,README.md,1
+Cole Barbes,9456932a2494790555dbf779e22e6261104d8c01,1,1,README.md,1
+Cole Barbes,0214a10d29862f54d5d5c4f1f32552ee816f6e08,1,1,README.md,1
+Cole Barbes,2804b07d9c51e75e725955bc275d613e6e849d9d,2,0,README.md,1
+Cole Barbes,ba914f2f8f253745bdc4726ae407cb964c1667be,8,2,README.md,1
+Cole Barbes,420e915cfc428076c7c1697b3cb4ab014e797ef5,15,0,README.md,1
+Cole Barbes,64646c09cd8ef20a7e90574639711d5ab887ad0d,1,1,README.md,1
+Cole Barbes,09db7bd3b0a67d58a8494f1c11508894207a38c1,1,5,README.md,1
+Cole Barbes,0e833a43831b32793a2457906003819d9d6c889f,5,3,README.md,1
+Cole Barbes,0f261e12f2fb254669f53608eaec67570f929e9b,3,1,README.md,1
+Cole Barbes,0b56c750246d787f2346634c1ab287e6292aab6b,1,1,README.md,1
+Cole Barbes,dcb5eed6574cfbe27ccdf58c8144c4374686a105,1,1,README.md,1
+Cole Barbes,80878859307a88317e7a83a4263365e3700f5b42,1,1,README.md,1
+Cole Barbes,5db90e3ef36f7ec1034ba42d9baf1f3e5e628166,1,1,README.md,1
+Cole Barbes,a7baf41ecd5e4f842502419ec59280ccb82d1717,1,1,README.md,1
+Cole Barbes,f0305a56d90a353c86e8f8fa648deba886288a49,1,1,README.md,1
+Cole Barbes,2916ebfbc30f72d5b8dc95caa9af0221d39750f7,160,0,.gitignore,2
+Cole Barbes,2916ebfbc30f72d5b8dc95caa9af0221d39750f7,2,0,README.md,2
